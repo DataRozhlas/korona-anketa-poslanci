@@ -13,7 +13,7 @@ options: [] #wide, noheader (, nopic)
 
 <!--[[ZPRAVY_ARTICLE:8163739:1:1]]-->
 
-I mezi zástupci vládních stran se ale najdou výjimky. Třeba poslanec ANO Pavel Růžička se spíše klaní k tomu, aby se nouzový stav neprodlužoval. „To, že jsou omezeny firmy ve výrobě, je neskutečný problém,“ vysvětlil. 
+I mezi zástupci vládních stran se ale najdou výjimky. Třeba poslanec ANO Pavel Růžička se spíše kloní k tomu, aby se nouzový stav neprodlužoval. „To, že jsou omezeny firmy ve výrobě, je neskutečný problém,“ vysvětlil. 
 
 ## Hlas pro nouzový stav
 
