@@ -1,7 +1,7 @@
 title: "‚Lufťáci jezdí na chaty a nedodržují opatření.' Většina poslanců je kvůli šíření koronaviru pro zákaz vycházení"
 perex: "Pokud vláda kvůli pandemii koronaviru požádá sněmovnu o prodloužení nouzového stavu, jsme připraveni jí vyhovět. Tak v anketě serveru iROZHLAS.cz odpověděla většina poslanců napříč politickým spektrem. Někteří zákonodárci jsou rovněž pro, aby se opatření v boji proti nákaze ještě více zpřísnila. Ve hře je totiž stále zákaz vycházení. Jejich odpovědi si můžete přečíst ve velkém přehledu."
 coverimg: https://www.irozhlas.cz/sites/default/files/styles/zpravy_snowfall/public/uploader/koronavirus_12_200319-155654_mda.jpg?itok=hg6IBoNk
-coverimg_note: "Foto Michaela Danelová"
+coverimg_note: "Foto iROZHLAS.cz – Michaela Danelová"
 styles: []
 libraries: [] #jquery, d3, highcharts, datatables
 options: [] #wide, noheader (, nopic)
@@ -11,6 +11,8 @@ options: [] #wide, noheader (, nopic)
 
 „Ano. Budu pro,“ napsala v SMS zprávě stručně zase poslankyně a někdejší ministryně obrany Karla Šlechtová (za ANO). A podobně to má i většina dalších koaličních poslanců. „Budu respektovat doporučení odborníků a Jana Hamáčka a hlasovat dle aktuální situace. Osobně se domnívám, že prodloužení nouzového stavu je namístě,“ uvedla místopředsedkyně klubu ČSSD a exšéfka resortu školství Kateřina Valachová.
 
+<!--[[ZPRAVY_ARTICLE:8163739:1:1]]-->
+
 I mezi zástupci vládních stran se ale najdou výjimky. Třeba poslanec ANO Pavel Růžička se spíše klaní k tomu, aby se nouzový stav neprodlužoval. „To, že jsou omezeny firmy ve výrobě, je neskutečný problém,“ vysvětlil. 
 
 ## Hlas pro nouzový stav
@@ -19,15 +21,16 @@ Zelenou by přitom prodloužení nouzovému stavu dala zřejmě i část opozice
 
 Podobný postoj zastávají také komunisté, o jejichž podporu se vládní koalice ANO a ČSSD opírá. „Záleží na tom, zda budou současná opatření účinná a jak se bude situace vyvíjet v případě, že lidé tak, jako nyní, budou k opatřením lhostejní – a to běžně na ulici vidím – tak to bude nutné a budu uvažovat o podpoře prodloužení nouzového stavu,“ popsal šéf KSČM Vojtěch Filip.
 
-<!--[[ZPRAVY_ARTICLE_PLACEHOLDER:2]]-->
-
 Z ankety serveru iROZHLAS.cz mezi poslanci tak vyplývá, že většina z nich by na prodloužení nouzového stavu – pokud o to vládní koalice požádá – přistoupila. Redakce oslovila všechny zákonodárce vyjma premiéra Andreje Babiše (ANO) a členů jeho kabinetu. Vedle toho se ptala i na možné zpřísnění už zavedených opatření, konkrétně na to, zda by poslanci souhlasili se zákazem vycházení. V pátek totiž tuto možnost připustil náměstek ministra zdravotnictví a šéf krizového štábu Roman Prymula.
 
 Otázky přesně zněly:
 
-1. Pokud vláda požádá sněmovnu o prodloužení nouzového stavu, budete pro?
-
-2. Souhlasíte s tím, aby se opatření zpřísňovala? Konkrétně aby lidé měli zákaz vycházet?
+<embed>
+<h3>
+  <b>1. Pokud vláda požádá sněmovnu o prodloužení nouzového stavu, budete pro?</b><br><br>
+  <b>2. Souhlasíte s tím, aby se opatření zpřísňovala? Konkrétně aby lidé měli zákaz vycházet?</b><br><br>
+</h3>
+</embed>
 
 Z oslovených 194 poslanců jich na zaslané dotazy reagovalo 118. Z došlých odpovědí vyplývá, že 92 členů dolní komory by už nyní zvedlo ruku spíše pro prodloužení nouzového stavu. Dalších 25 je zatím na vážkách, jeden to pak odmítl.
 
@@ -50,6 +53,8 @@ Stejný názor zastává také předseda bezpečnostního výboru Radek Koten z 
 Poslanci – vládní i opoziční – se u vládních opatření ale shodují vesměs v jednom: důvěřují šéfovi krizového štábu Prymulovi a jeho odbornému úsudku. „Co je v pravomoci vlády a vykoná v souladu se zákony, podporuji. Mají informace, mají odpovědnost, mají pravomoci, v takto krizové situaci musíme táhnout za jeden provaz,“ popsal šéf poslanců Starostů a nezávislých Jan Farský.
 
 TOP 09 pak od vlády bude požadovat další informace, pokud by tedy zaváděla nové, tvrdší zákazy a omezení, případně by chtěla prodloužit nouzový stav. „Je to obrovský precedent. Bude to vyžadovat pečlivou debatu, na jaké oblasti bude omezen, protože obava, že by někdo mohl zneužít nouzový stav k utažení šroubů, není úplně lichá,“ nastínil šéf poslanců strany Miroslav Kalousek.
+
+<!--[[ZPRAVY_ARTICLE:8165193:0:1]]-->
 
 Pokud by skutečně mělo dojít na zákaz vycházení, chce být informovanější také například lidovecký zákonodárce Marek Výborný: „Rád bych od vlády znal podrobnější zdůvodnění a v tomto případě i promyšleně připravený a odůvodněný seznam výjimek, například u dobrovolných hasičů nebo zemědělců.“ Jestliže by to kabinet ale řádně zdůvodnil, podpořil by to.
 
