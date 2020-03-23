@@ -39,5 +39,9 @@
   }
   
   .cervene {
-    color: red;
+    background-color: #fc8d59;
+  }
+
+  .zelene {
+    background-color: #91cf60;
   }
