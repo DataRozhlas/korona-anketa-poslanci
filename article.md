@@ -1,8 +1,10 @@
 title: "‚Lufťáci jezdí na chaty a nedodržují opatření.' Většina poslanců je kvůli šíření koronaviru pro zákaz vycházení"
 perex: "Pokud vláda kvůli pandemii koronaviru požádá sněmovnu o prodloužení nouzového stavu, jsme připraveni jí vyhovět. Tak v anketě serveru iROZHLAS.cz odpověděla většina poslanců napříč politickým spektrem. Někteří zákonodárci jsou rovněž pro, aby se opatření v boji proti nákaze ještě více zpřísnila. Ve hře je totiž stále zákaz vycházení. Jejich odpovědi si můžete přečíst ve velkém přehledu."
+coverimg: https://www.irozhlas.cz/sites/default/files/styles/zpravy_snowfall/public/uploader/koronavirus_12_200319-155654_mda.jpg?itok=hg6IBoNk
+coverimg_note: "Foto Michaela Danelová"
 styles: []
 libraries: [] #jquery, d3, highcharts, datatables
-options: [noheader, nopic] #wide, noheader (, nopic)
+options: [] #wide, noheader (, nopic)
 ---
 
 „Bude- li to nutné a navrhne to vláda, budu pro,“ reagoval na dotaz serveru iROZHLAS.cz například poslanec ANO a místopředseda rozpočtového výboru Milan Feranec, zda případně podpoří prodloužení nouzového stavu. Ten kvůli šíření nemoci COVID-19 platí v Česku od 12. března na dobu 30 dní. Pokud ho bude chtít kabinet Andreje Babiše (ANO) prodloužit, musí o souhlas podle [ústavního zákona o bezpečnosti republiky](https://www.zakonyprolidi.cz/cs/1998-110) nejdříve požádat Poslaneckou sněmovnu.
@@ -17,7 +19,9 @@ Zelenou by přitom prodloužení nouzovému stavu dala zřejmě i část opozice
 
 Podobný postoj zastávají také komunisté, o jejichž podporu se vládní koalice ANO a ČSSD opírá. „Záleží na tom, zda budou současná opatření účinná a jak se bude situace vyvíjet v případě, že lidé tak, jako nyní, budou k opatřením lhostejní – a to běžně na ulici vidím – tak to bude nutné a budu uvažovat o podpoře prodloužení nouzového stavu,“ popsal šéf KSČM Vojtěch Filip.
 
-Z ankety serveru iROZHLAS.cz mezi poslanci tak vyplývá, že většina z nich by na prodloužení nouzového stavu – pokud o to vládní koalice požádala – přistoupila. Redakce oslovila všechny zákonodárce vyjma premiéra Andreje Babiše (ANO) a členů jeho kabinetu. Vedle toho se ptala i na možné zpřísnění už zavedených opatření, konkrétně na to, zda by poslanci souhlasili se zákazem vycházení. V pátek totiž tuto možnost připustil náměstek ministra zdravotnictví a šéf krizového štábu Roman Prymula.
+<!--[[ZPRAVY_ARTICLE_PLACEHOLDER:2]]-->
+
+Z ankety serveru iROZHLAS.cz mezi poslanci tak vyplývá, že většina z nich by na prodloužení nouzového stavu – pokud o to vládní koalice požádá – přistoupila. Redakce oslovila všechny zákonodárce vyjma premiéra Andreje Babiše (ANO) a členů jeho kabinetu. Vedle toho se ptala i na možné zpřísnění už zavedených opatření, konkrétně na to, zda by poslanci souhlasili se zákazem vycházení. V pátek totiž tuto možnost připustil náměstek ministra zdravotnictví a šéf krizového štábu Roman Prymula.
 
 Otázky přesně zněly:
 
