@@ -32,11 +32,11 @@ Otázky přesně zněly:
 </h3>
 </embed>
 
-Z oslovených 194 poslanců jich na zaslané dotazy reagovalo 118. Z došlých odpovědí vyplývá, že 92 členů dolní komory by už nyní zvedlo ruku spíše pro prodloužení nouzového stavu. Dalších 25 je zatím na vážkách, jeden to pak odmítl.
+Z oslovených 194 poslanců jich na zaslané dotazy reagovalo 119. Z došlých odpovědí vyplývá, že 92 členů dolní komory by už nyní zvedlo ruku spíše pro prodloužení nouzového stavu. Dalších 25 je zatím na vážkách, dva to pak odmítli.
 
 ## Přitvrzení v zákazech
 
-Jiná je však situace v případě možnosti zpřísnit zavedená opatření. Na tom, zda by vláda měla přitvrdit, se poslanci neshodli. Pro zpřísnění, jestliže nákaza koronavirem neustoupí, se vyjádřilo spíše 68 zákonodárců, proti pak 30. Zbytek došlých odpovědí, tedy 20 reakcí, nebyla jednoznačná.
+Jiná je však situace v případě možnosti zpřísnit zavedená opatření. Na tom, zda by vláda měla přitvrdit, se poslanci neshodli. Pro zpřísnění, jestliže nákaza koronavirem neustoupí, se vyjádřilo spíše 68 zákonodárců, proti pak 30. Zbytek došlých odpovědí, tedy 21 reakcí, nebyla jednoznačná.
 
 „Zákaz vycházení vnímám až jako naprosto krajní možnost,“ řekl třeba poslanec ČSSD Petr Dolínek. Je ale podle něj nutné, aby lidé dodržovali nastavená pravidla. Podobně mluví také Václav Klaus mladší (Trikolóra). „Lidi musí chodit do práce, na procházku do přírody, na nákup – za nejbližší rodinou, třeba k prarodičům,“ uvedl.
 
